@@ -140,7 +140,6 @@ void Customer::Internet(int megabytes) {
         cout << "[ERROR] Ліміт перевищено\n";
     }
 };
-
 // ==========================================
 
 
@@ -182,7 +181,6 @@ double Operator::CalculateNetworkCost(int megabytes, Customer& customer) {
 
     return cost;
 };
-
 // ==========================================
 
 
