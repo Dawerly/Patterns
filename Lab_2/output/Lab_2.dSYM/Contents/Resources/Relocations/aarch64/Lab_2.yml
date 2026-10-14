@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dawerly/Desktop/C++/Patterns/Lab_2/output/Lab_2'
+relocations:     []
+...
