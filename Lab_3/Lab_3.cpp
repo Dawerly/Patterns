@@ -581,7 +581,6 @@ void runProgram() {
         {"active", "false"}, {"birth_date", "1995-12-03"}
     });
 
-    // CREATE: додавання замовлень
     database.insert("orders", {
         {"id", "101"}, {"user_id", "1"},
         {"product", "Keyboard"}, {"amount", "1500"}

@@ -489,7 +489,6 @@ void printMenu() {
     cout << "0. Завершити програму\n";
 };
 
-// Уся робота програми знаходиться в одній функції
 void runProgram() {
     vector<Port*> ports;
     vector<Ship*> ships;
