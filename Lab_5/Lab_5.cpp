@@ -247,7 +247,7 @@ int main() {
     account2->deposit(1500);
     cout << "Баланс 2: " << atm2.handleBalanceRequest() << " грн" << endl;
 
-    account2->deposit(300);
+    account2->deposit(400);
     cout << "Баланс 2: " << atm2.handleBalanceRequest() << " грн" << endl;
 
     atm1.handleLogout();
